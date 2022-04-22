@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Korla-tech
 - 👀 I’m interested in Flutter, Pyton and React
+- 🚀 I’m currently working on kostrjanc
 - 🌱 I’m currently learning Flutter
 
 <!---
