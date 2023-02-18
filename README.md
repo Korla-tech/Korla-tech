@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Korla-tech
-- 👀 I’m interested in Flutter, Pyton and React
+- 👀 I’m interested in Flutter, Python and React
 - 🚀 I’m currently working on kostrjanc
 - 🌱 I’m currently making a sorbian tts model
 
